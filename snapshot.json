@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-15",
+  "treat_as": "gold",
+  "spoken_form": "2cd-1c=f(x)",
+  "metric": "2 * x * c - d = 1",
+  "c_gold_usd_per_oz": 4294,
+  "c_light_m_s": 299792458,
+  "utterance": "This is good treat this as gold 2cd-1c=f(x) while c is gold c is the speed of light and what calubke is the quickest time in the sandbox in terms of operation the quickest single step is worth gold its weight in gold currently",
+  "valuation": {
+    "usd_value": 4557.88,
+    "currency": "USD",
+    "core": 4.8621,
+    "confidence": 1.0,
+    "x": 2.1067,
+    "c": 1.6753,
+    "d": 6.0585,
+    "metric_check": 1.0
+  },
+  "fastest_step_s": 4.01e-7,
+  "process_spawn_s": 0.00294,
+  "step_priced_as_oz": 1.0,
+  "implied_usd_per_second": 1.07e10
+}
