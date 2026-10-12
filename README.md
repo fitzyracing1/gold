@@ -50,3 +50,8 @@ python3 scripts/analogue_valuation_engine.py
 ## Push
 
 This folder is the unit of work. Zip is `analogue-valuation-gold.zip`.
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/gold/wiki](https://github.com/fitzyracing1/gold/wiki)
